@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="LaptopSpringMVC"/>
+			<item value="RestfulDemo"/>
+			<item value="SpringMVC"/>
+			<item value="SpringMVCApp"/>
+		</list>
+		<list key="name">
+			<item value="LaptopSpringMVC"/>
+			<item value="Restful Demo"/>
+			<item value="Spring MVC"/>
+			<item value="Spring MVC Demo"/>
+		</list>
+		<list key="artifactId">
+			<item value="LaptopSpringMVC"/>
+			<item value="RestfulDemo"/>
+			<item value="SpringMVC"/>
+			<item value="SpringMVCApp"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
